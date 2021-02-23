@@ -1,4 +1,0 @@
-/home/tomi/github/advanced-programming-techniques/exercises/week05/part01/build-counter-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/tomi/github/advanced-programming-techniques/exercises/week05/part01/build-counter-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/tomi/github/advanced-programming-techniques/exercises/week05/part01/build-counter-Desktop-Debug/CMakeFiles/counter.dir
-/home/tomi/github/advanced-programming-techniques/exercises/week05/part01/build-counter-Desktop-Debug/CMakeFiles/counter_autogen.dir

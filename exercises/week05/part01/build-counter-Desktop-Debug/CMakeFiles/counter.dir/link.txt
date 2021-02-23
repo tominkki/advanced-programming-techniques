@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/counter.dir/counter_autogen/mocs_compilation.cpp.o CMakeFiles/counter.dir/main.cpp.o CMakeFiles/counter.dir/counter.cpp.o -o counter  /usr/lib/libQt5Widgets.so.5.15.2 /usr/lib/libQt5Gui.so.5.15.2 /usr/lib/libQt5Core.so.5.15.2 
